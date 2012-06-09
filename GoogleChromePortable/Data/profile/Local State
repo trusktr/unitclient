@@ -55,8 +55,8 @@
       "wrapped_key": "AKEgNitZf2EaU9lmNq-7dKbEf5ckKlNzkkcUpqBYqqTM0jKA444myQFa-i_MZZk-JsFR2TDgmS3r8XkvpSxUQpBs9ww_epJ_Xw=="
    },
    "shutdown": {
-      "num_processes": 4,
-      "num_processes_slow": 0,
+      "num_processes": 3,
+      "num_processes_slow": 1,
       "type": 1
    },
    "task_manager": {
@@ -74,21 +74,21 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1339096424",
-      "launch_count": "7"
+      "launch_count": "9"
    },
    "user_experience_metrics": {
-      "session_id": 6,
+      "session_id": 8,
       "stability": {
          "breakpad_registration_fail": 0,
          "breakpad_registration_ok": 0,
          "crash_count": 0,
-         "debugger_not_present": 7,
+         "debugger_not_present": 9,
          "debugger_present": 0,
          "exited_cleanly": true,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1339222874",
-         "launch_count": 7,
-         "launch_time_sec": "1339193565",
+         "last_timestamp_sec": "1339232526",
+         "launch_count": 9,
+         "launch_time_sec": "1339232501",
          "page_load_count": 0,
          "renderer_crash_count": 0,
          "renderer_hang_count": 0,
