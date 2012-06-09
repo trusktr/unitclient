@@ -1,0 +1,1397 @@
+{
+   "backup": {
+      "_signature": "DxMHz7vujqkBcERikXjCB2DbVIvFFieVj8uoCb6fKSM=",
+      "_version": 3,
+      "browser": {
+         "show_home_button": false
+      },
+      "extensions": {
+         "ids": [ "ahfgeienlihckogmohjhadlkjgocpleb", "geaciikggodcnpjfpnpcpjkcmamkfbfp", "ljfcdkedjggbfbclmoiljkllbligpeem", "mgijmajocgfcbeboacabfgobmjgjcoja" ]
+      },
+      "homepage": "chrome://newtab/",
+      "homepage_is_newtabpage": true,
+      "pinned_tabs": [ {
+         "url": "chrome://chrome/extensions/"
+      } ],
+      "session": {
+         "restore_on_startup": 1
+      }
+   },
+   "browser": {
+      "check_default_browser": false,
+      "clear_lso_data_enabled": true,
+      "window_placement": {
+         "bottom": 770,
+         "left": 173,
+         "maximized": true,
+         "right": 1223,
+         "top": 109,
+         "work_area_bottom": 964,
+         "work_area_left": 0,
+         "work_area_right": 1280,
+         "work_area_top": 0
+      },
+      "window_placement_DevToolsApp": {
+         "always_on_top": false,
+         "bottom": 797,
+         "left": 113,
+         "maximized": false,
+         "right": 928,
+         "top": 157,
+         "work_area_bottom": 964,
+         "work_area_left": 0,
+         "work_area_right": 1280,
+         "work_area_top": 0
+      }
+   },
+   "cloud_print": {
+      "email": ""
+   },
+   "countryid_at_install": 21843,
+   "default_apps_install_state": 2,
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?{google:RLZ}sourceid=chrome-instant&{google:instantFieldTrialGroupParameter}ie={inputEncoding}{google:instantEnabledParameter}{searchTerms}",
+      "keyword": "google.com",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}client=chrome&hl={language}&q={searchTerms}"
+   },
+   "devtools": {
+      "split_location": 251
+   },
+   "dns_prefetching": {
+      "host_referral_list": [ 2, [ "http://127.0.0.1:3437/", [ "http://127.0.0.1:3437/", 0.8380698062490435 ] ], [ "http://a1.interclick.com/", [ "http://a1.interclick.com/", 1.9116543432291524, "http://ad.yieldmanager.com/", 1.9116543432291524, "http://campaigns.interclick.com/", 1.9116543432291524, "http://cdn.interclick.com/", 2.1894160854077476, "http://osmsync.interclick.com/", 1.9116543432291524 ] ], [ "http://ad.yieldmanager.com/", [ "http://a1.interclick.com/", 2.1894160854077476, "http://ad.yieldmanager.com/", 2.744939569764937, "http://cookex.amp.yahoo.com/", 1.9116543432291524, "http://ib.adnxs.com/", 1.9116543432291524 ] ], [ "http://answers.yahoo.com/", [ "http://ad.yieldmanager.com/", 2.1894160854077476, "http://b.scorecardresearch.com/", 1.9116543432291524, "http://l.yimg.com/", 9.688983124229804, "http://scripts.chitika.net/", 2.1894160854077476, "http://us.bc.yahoo.com/", 1.9116543432291524, "http://yui.yahooapis.com/", 2.744939569764937 ] ], [ "http://blog.amsvans.com/", [ "http://0.gravatar.com/", 2.0005381007263026, "http://blog.amsvans.com/", 9.194567223151903, "http://www.google-analytics.com/", 1.722776358547708 ] ], [ "http://canjs.us/", [ "http://bitovi.com/", 0.17080648255498482, "http://canjs.us/", 0.517518148636745, "http://donejs.com/", 0.14913700342487482, "http://www.google-analytics.com/", 0.17080648255498482 ] ], [ "http://cdn.interclick.com/", [ "http://cm.g.doubleclick.net/", 1.9116543432291524, "http://g-pixel.invitemedia.com/", 1.9116543432291524, "http://ib.mookie1.com/", 0.832716631910619, "http://ic.nexac.com/", 0.9537096468036149, "http://load.s3.amazonaws.com/", 1.9116543432291524, "http://loadm.exelator.com/", 1.1104783740892132, "http://osmsync.interclick.com/", 1.9116543432291524, "http://p.brilig.com/", 0.832716631910619, "http://tags.bluekai.com/", 0.832716631910619, "http://va.px.invitemedia.com/", 0.832716631910619 ] ], [ "http://cms.clownfishmedia.com/", [ "http://cms.clownfishmedia.com/", 5.011209432451557, "http://www.gravatar.com/", 0.2499347503882507 ] ], [ "http://code.google.com/", [ "http://code.google.com/", 6.03158057984192, "http://www.google-analytics.com/", 1.962900901181856, "http://www.gstatic.com/", 0.7768654088614708, "http://www.youtube.com/", 0.5493440638886026, "https://apis.google.com/", 0.6093491394042186, "https://kibbles.googlecode.com/", 0.4689062064249057, "https://ssl.gstatic.com/", 0.4689062064249057, "https://www.google-analytics.com/", 0.6469070758204994, "https://www.google.com/", 3.1259402311606403 ] ], [ "http://crbug.com/", [ "http://code.google.com/", 1.950532394969525 ] ], [ "http://d.shareaholic.com/", [ "http://d.shareaholic.com/", 2.1894160854077476, "http://dtym7iokkjlif.cloudfront.net/", 1.9116543432291524, "http://i.w55c.net/", 1.9116543432291524, "http://ib.adnxs.com/", 2.1894160854077476 ] ], [ "http://davidwalsh.name/", [ "http://davidwalsh.name/", 7.611247873561171, "http://platform.twitter.com/", 2.262398482101845, "http://s3.buysellads.com/", 4.554762507012983, "http://www.facebook.com/", 2.007691368222829, "http://www.gravatar.com/", 18.818360884237855, "http://www.reddit.com/", 2.007691368222829, "https://apis.google.com/", 2.007691368222829, "https://plusone.google.com/", 2.007691368222829, "https://ssl.gstatic.com/", 1.7529842543438134, "https://www.google.com/", 2.5171055959808606 ] ], [ "http://dev.screw-axis.com/", [ "http://dev.screw-axis.com/", 1.4293024540263601, "http://g-ecx.images-amazon.com/", 1.186413750231331, "http://ws.amazon.co.jp/", 1.186413750231331, "http://www.google-analytics.com/", 1.552071282916046, "https://www.google.com/", 0.7635999411921652 ] ], [ "http://donejs.com/", [ "http://a0.twimg.com/", 5.635183659380201, "http://ajax.cdnjs.com/", 1.8043542189575343, "http://ajax.googleapis.com/", 1.8043542189575343, "http://donejs.com/", 7.834290113080574, "http://search.twitter.com/", 1.8572295440774185 ] ], [ "http://facebook.com/", [ "http://www.facebook.com/", 2.1894160854077476 ] ], [ "http://feedjit.com/", [ "http://www.google-analytics.com/", 1.5092331311608043 ] ], [ "http://foundation.zurb.com/", [ "http://foundation.zurb.com/", 14.28369980853391, "http://github.com/", 1.888248979223594, "http://platform.twitter.com/", 3.8073416203097104, "http://www.facebook.com/", 1.7099726136582172, "http://www.google-analytics.com/", 2.323453048103778, "http://www.zurb.com/", 2.837308454733394, "https://apis.google.com/", 1.888248979223594, "https://plusone.google.com/", 2.2343148653210894, "https://ssl.gstatic.com/", 1.1908737845119726 ] ], [ "http://ghz.me/", [ "http://ghz.me/", 1.5369396706094687, "http://www.google-analytics.com/", 1.3639067275607208 ] ], [ "http://gmail.com/", [ "https://accounts.google.com/", 1.9435827809986248, "https://gmail.com/", 1.9435827809986248, "https://mail.google.com/", 1.9435827809986248 ] ], [ "http://google.calstate.edu/", [ "http://www.csus.edu/", 4.55576819786512, "http://www.google-analytics.com/", 1.8572295440774185 ] ], [ "http://google.com/", [ "http://www.google.com/", 1.9291833484918866 ] ], [ "http://googleads.g.doubleclick.net/", [ "http://pagead2.googlesyndication.com/", 0.06477090256513605 ] ], [ "http://html5demos.com/", [ "http://ad.doubleclick.net/", 1.8043542189575343, "http://ajax.googleapis.com/", 1.8043542189575343, "http://engine.carbonads.com/", 1.8043542189575343, "http://html5demos.com/", 3.6395520997775903, "http://s0.2mdn.net/", 1.8043542189575343, "http://s3.amazonaws.com/", 1.8043542189575343, "http://www.google-analytics.com/", 2.066525344788971, "http://www.w3.org/", 1.8043542189575343 ] ], [ "http://ic.nexac.com/", [ "http://cdn.interclick.com/", 2.1894160854077476 ] ], [ "http://jsfiddle.net/", [ "http://dnn506yrbagrg.cloudfront.net/", 1.4674208198281147, "http://fonts.googleapis.com/", 0.9347002865441548, "http://jsfiddle.net/", 5.5312313245011016, "http://themes.googleusercontent.com/", 0.9347002865441548, "http://www.google-analytics.com/", 1.6032319725738464 ] ], [ "http://masteryuniversity.blogspot.com/", [ "http://d.yimg.com/", 1.5394536087098354, "http://img1.blogblog.com/", 1.5394536087098354, "http://img2.blogblog.com/", 1.5394536087098354, "http://neatorama.cachefly.net/", 16.755241845253252, "http://pagead2.googlesyndication.com/", 2.0005381007263026, "http://www.blogblog.com/", 2.0005381007263026, "http://www.blogger.com/", 3.844876068792171, "http://www.google.com/", 1.81721535088843, "http://www1.blogblog.com/", 1.5394536087098354, "http://www2.blogblog.com/", 1.5394536087098354 ] ], [ "http://media.fastclick.net/", [ "http://altfarm.mediaplex.com/", 2.4575561048895462, "http://img-cdn.mediaplex.com/", 2.7693356107337426, "http://img.mediaplex.com/", 2.1457765990453503, "http://imp.constantcontact.com/", 2.1457765990453503, "http://mp.apmebf.com/", 2.1457765990453503 ] ], [ "http://media.netseer.com/", [ "http://view.atdmt.com/", 2.4575561048895462 ] ], [ "http://mediacdn.disqus.com/", [ "http://b.scorecardresearch.com/", 0.8420383621413385, "http://edge.quantserve.com/", 0.3326241343833072, "http://mediacdn.disqus.com/", 1.7529842543438134, "http://pixel.quantserve.com/", 1.7529842543438134, "http://www.google-analytics.com/", 0.5873312482623226 ] ], [ "http://meebo.com/", [ "https://www.meebo.com/", 2.1894160854077476 ] ], [ "http://net.tutsplus.com/", [ "http://d2o0t5hpnwv4c1.cloudfront.net/", 3.901723225609027, "http://freelanceswitch.com/", 1.8043542189575343, "http://net.tutsplus.com/", 17.984926894571803, "http://s3.buysellads.com/", 3.901723225609027, "http://static.ak.facebook.com/", 2.066525344788971, "http://stats.buysellads.com/", 2.066525344788971, "http://www.facebook.com/", 2.066525344788971, "https://plusone.google.com/", 2.066525344788971, "https://s-static.ak.facebook.com/", 2.066525344788971, "https://ssl.gstatic.com/", 1.8043542189575343 ] ], [ "http://newslettercartoons.com/", [ "http://twitter-badges.s3.amazonaws.com/", 1.8572295440774185, "http://www.tedgoff.com/", 5.09547592862266 ] ], [ "http://platform.twitter.com/", [ "http://cdn.api.twitter.com/", 0.3248108524380833, "http://r.twimg.com/", 0.3134367351014779 ] ], [ "http://productforums.google.com/", [ "http://productforums.google.com/", 4.809469620892, "http://ssl.gstatic.com/", 2.5171055959808606, "http://www.google-analytics.com/", 1.7529842543438134, "http://www.google.com/", 1.7529842543438134, "https://apis.google.com/", 1.7529842543438134, "https://plusone.google.com/", 2.007691368222829, "https://ssl.gstatic.com/", 1.7529842543438134, "https://www.google.com/", 3.0265198237388913 ] ], [ "http://r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com/", [ "http://r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com/", 2.744939569764937, "http://www-fc-opensocial.googleusercontent.com/", 0.6404931070388603, "http://www.google.com/", 4.39527047148111 ] ], [ "http://s.ytimg.com/", [ "http://i1.ytimg.com/", 4.673850736595761, "http://i3.ytimg.com/", 10.668187565718492, "http://i4.ytimg.com/", 2.4575561048895462 ] ], [ "http://s10.histats.com/", [ "http://s4.histats.com/", 2.1894160854077476 ] ], [ "http://s3.buysellads.com/", [ "http://pagead2.googlesyndication.com/", 1.8043542189575343 ] ], [ "http://s7.addthis.com/", [ "http://cf.addthis.com/", 0.832716631910619, "http://m.addthisedge.com/", 1.1104783740892132 ] ], [ "http://sandbox.clownfishmedia.com/", [ "http://sandbox.clownfishmedia.com/", 30.885628680607862 ] ], [ "http://src.chromium.org/", [ "http://src.chromium.org/", 1.3183520352206608 ] ], [ "http://stackoverflow.com/", [ "http://ajax.googleapis.com/", 1.4162125553699312, "http://careers.stackoverflow.com/", 2.045532170644914, "http://cdn.sstatic.net/", 3.14575527746868, "http://edge.quantserve.com/", 1.4162125553699312, "http://engine2.adzerk.net/", 1.4162125553699312, "http://pixel.quantserve.com/", 1.727992061214127, "http://stackoverflow.com/", 1.727992061214127, "http://static.adzerk.net/", 1.3443868313017184, "http://www.google-analytics.com/", 1.7337526648007178, "http://www.gravatar.com/", 1.755935779016057 ] ], [ "http://supercollider.dk/", [ "http://static.jsconf.us/", 2.025335319191497, "http://supercollider.dk/", 4.08529175495037, "http://www.google-analytics.com/", 2.319614810014193 ] ], [ "http://tech4globe.com/", [ "http://feedjit.com/", 1.9116543432291524, "http://map.media6degrees.com/", 1.9116543432291524, "http://pagead2.googlesyndication.com/", 1.9116543432291524, "http://sstatic1.histats.com/", 1.9116543432291524, "http://tech4globe.com/", 18.316262836296957, "http://www.facebook.com/", 3.2893525844349822, "http://www.google-analytics.com/", 1.9116543432291524, "http://www.gravatar.com/", 8.455720988956843, "http://www.linkreferral.com/", 1.9116543432291524, "http://www.statcounter.com/", 1.9116543432291524 ] ], [ "http://tutsplus.com/", [ "http://beacon-1.newrelic.com/", 1.8043542189575343, "http://lp.longtailvideo.com/", 2.066525344788971, "http://static.ak.facebook.com/", 2.066525344788971, "http://statse.webtrendslive.com/", 2.328696470620408, "http://tutsplus.com/", 15.437252762192236, "http://tutsplus.s3.amazonaws.com/", 2.066525344788971, "http://www.facebook.com/", 2.066525344788971, "https://apis.google.com/", 2.066525344788971, "https://plusone.google.com/", 2.066525344788971, "https://s-static.ak.facebook.com/", 2.066525344788971 ] ], [ "http://view.atdmt.com/", [ "http://cdn.doubleverify.com/", 2.1457765990453503, "http://choices.truste.com/", 2.4575561048895462, "http://ec.atdmt.com/", 2.1457765990453503 ] ], [ "http://wingolog.org/", [ "http://wingolog.org/", 2.4575561048895462 ] ], [ "http://ws.amazon.co.jp/", [ "http://ecx.images-amazon.com/", 6.083005190287078, "http://g-ecx.images-amazon.com/", 3.790641165375938, "http://images.amazon.com/", 2.262398482101845, "http://ws.amazon.co.jp/", 4.554762507012983, "http://www.amazon.com/", 3.0265198237388913, "http://www.assoc-amazon.jp/", 2.262398482101845 ] ], [ "http://www.blogger.com/", [ "http://img1.blogblog.com/", 1.1104783740892132 ] ], [ "http://www.csus.edu/", [ "http://c.statcounter.com/", 2.127083409456189, "http://l.longtailvideo.com/", 1.7600821525410613, "http://plugins.longtailvideo.com/", 3.8973247663409194, "http://translate.google.com/", 2.127083409456189, "http://translate.googleapis.com/", 3.4763527363500395, "http://www.csus.edu/", 23.273432930305813, "http://www.google-analytics.com/", 2.5937147134691574, "http://www.google.com/", 2.396937274834959, "http://www.statcounter.com/", 2.127083409456189 ] ], [ "http://www.facebook.com/", [ "http://profile.ak.fbcdn.net/", 0.12199446262392857, "http://static.ak.fbcdn.net/", 3.308976489104088 ] ], [ "http://www.google.com/", [ "http://id.google.com/", 0.40678327516463353, "http://ssl.gstatic.com/", 0.9858740898132566, "http://www.google.com/", 5.676122252037255 ] ], [ "http://www.html5rocks.com/", [ "http://ajax.googleapis.com/", 1.7529842543438134, "http://platform.twitter.com/", 2.262398482101845, "http://themes.googleusercontent.com/", 2.771812709859876, "http://www.facebook.com/", 2.007691368222829, "http://www.google-analytics.com/", 2.007691368222829, "http://www.html5rocks.com/", 15.761875517689667, "https://apis.google.com/", 2.262398482101845, "https://plusone.google.com/", 2.007691368222829, "https://ssl.gstatic.com/", 2.007691368222829, "https://www.google.com/", 2.5171055959808606 ] ], [ "http://www.reddit.com/", [ "http://ajax.googleapis.com/", 1.7529842543438134, "http://buttons.reddit.com/", 1.7529842543438134, "http://www.reddit.com/", 2.5171055959808606 ] ], [ "http://www.tedgoff.com/", [ "http://newslettercartoons.com/", 2.127083409456189 ] ], [ "http://www.w3schools.com/", [ "http://pagead2.googlesyndication.com/", 2.1457765990453503, "http://partner.googleadservices.com/", 2.4575561048895462, "http://pubads.g.doubleclick.net/", 4.016453634110526, "http://translate.google.com/", 2.1457765990453503, "http://translate.googleapis.com/", 3.0811151165779385, "http://w3schools.com/", 2.1457765990453503, "http://www.google-analytics.com/", 2.4575561048895462, "http://www.google.com/", 2.4575561048895462, "http://www.w3schools.com/", 6.198910175019899 ] ], [ "http://www.youtube.com/", [ "http://s.ytimg.com/", 2.38569339362019 ] ], [ "http://www20.csueastbay.edu/", [ "http://s7.addthis.com/", 3.0227013119435315, "http://www.google-analytics.com/", 2.1894160854077476, "http://www20.csueastbay.edu/", 16.633026678694673 ] ], [ "https://4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com/", [ "https://gg.google.com/", 0.5156229145411038, "https://maps-api-ssl.google.com/", 1.2997314940202078, "https://maps.gstatic.com/", 0.20392199284190504, "https://ssl.gstatic.com/", 0.20392199284190504, "https://www-gm-opensocial.googleusercontent.com/", 0.15800578253313174 ] ], [ "https://accounts.google.com/", [ "https://accounts.google.com/", 0.061317680093970685, "https://accounts.youtube.com/", 0.2350629925062284, "https://docs.google.com/", 1.9116543432291524, "https://mail.google.com/", 0.2559154749872475, "https://ssl.google-analytics.com/", 0.2782199628878888, "https://ssl.gstatic.com/", 0.5469159912932222, "https://www.google.com/", 0.6301661450812885 ] ], [ "https://api.twitter.com/", [ "https://api.twitter.com/", 1.9116543432291524, "https://si0.twimg.com/", 3.578224796300721, "https://ssl.google-analytics.com/", 2.744939569764937 ] ], [ "https://bugzilla.gnome.org/", [ "https://bugzilla.gnome.org/", 6.714599120895281 ] ], [ "https://checkout.google.com/", [ "https://checkout.google.com/", 1.9116543432291524 ] ], [ "https://chrome.google.com/", [ "https://chrome.google.com/", 2.744939569764937, "https://clients1.google.com/", 1.9116543432291524, "https://lh3.googleusercontent.com/", 9.411221382051208, "https://lh4.googleusercontent.com/", 7.189127444622452, "https://lh5.googleusercontent.com/", 7.189127444622452, "https://lh6.googleusercontent.com/", 8.022412671158236, "https://ssl.google-analytics.com/", 4.13374828065791, "https://ssl.gstatic.com/", 2.467177827586342, "https://www.google.com/", 4.13374828065791, "https://www.gstatic.com/", 1.9116543432291524 ] ], [ "https://cmsweb.csueastbay.edu/", [ "https://cmsweb.csueastbay.edu/", 3.4819312888016993 ] ], [ "https://cmsweb.csus.edu/", [ "https://cmsweb.csus.edu/", 57.02081299266755 ] ], [ "https://code.google.com/", [ "https://apis.google.com/", 2.529573049612, "https://code.google.com/", 2.529573049612, "https://kibbles.googlecode.com/", 2.2086570657060003, "https://ssl.google-analytics.com/", 2.529573049612, "https://ssl.gstatic.com/", 3.4923210013299997 ] ], [ "https://docs.google.com/", [ "https://docs.google.com/", 2.127083409456189, "https://ssl.gstatic.com/", 3.4763527363500395 ] ], [ "https://fls.doubleclick.net/", [ "https://ad.yieldmanager.com/", 1.9116543432291524, "https://conversion-pixel.invitemedia.com/", 1.9116543432291524, "https://googleads.g.doubleclick.net/", 1.9437636006249972, "https://segment-pixel.invitemedia.com/", 1.9116543432291524, "https://www.googleadservices.com/", 2.3425183576965884 ] ], [ "https://groups.google.com/", [ "https://apis.google.com/", 0.21328185468309352, "https://groups.google.com/", 19.172689415857842, "https://plusone.google.com/", 0.2442715258763636, "https://ssl.google-analytics.com/", 1.970305038290302, "https://ssl.gstatic.com/", 1.970305038290302 ] ], [ "https://live.gnome.org/", [ "https://live.gnome.org/", 5.90503752475897 ] ], [ "https://mail.google.com/", [ "https://accounts.google.com/", 0.3339709418277837, "https://chatenabled.mail.google.com/", 0.23258690591577805, "https://docs.google.com/", 0.4015602991024542, "https://mail-attachment.googleusercontent.com/", 0.23258690591577805, "https://mail.google.com/", 2.125088909606551, "https://plus.google.com/", 0.3339709418277837, "https://ssl.gstatic.com/", 0.9084804786624833, "https://static.googleusercontent.com/", 0.23258690591577805, "https://www-gm-opensocial.googleusercontent.com/", 0.23258690591577805, "https://www.google.com/", 0.5705336922891305 ] ], [ "https://my.csueastbay.edu/", [ "https://cmsweb.csueastbay.edu/", 1.8116601160448584, "https://my.csueastbay.edu/", 10.427829358424866, "https://ssl.google-analytics.com/", 1.4450146163691133 ] ], [ "https://my.csus.edu/", [ "http://my.csus.edu/", 3.7462066017288094, "https://my.csus.edu/", 27.014395577600258, "https://sacauth.csus.edu/", 0.6557435489888764, "https://webapps2.csus.edu/", 0.5492722727456715, "https://www.calendar.csus.edu/", 0.5492722727456715 ] ], [ "https://plus.google.com/", [ "https://apis.google.com/", 0.28780160744879035, "https://plus.google.com/", 0.42730650590083463 ] ], [ "https://plusone.google.com/", [ "https://apis.google.com/", 0.48496191781134, "https://lh4.googleusercontent.com/", 0.17844660272429713, "https://plusone.google.com/", 0.9479046261692671, "https://ssl.gstatic.com/", 0.6404931070388603 ] ], [ "https://sacauth.csus.edu/", [ "https://sacauth.csus.edu/", 1.7361191292954263 ] ], [ "https://studentloans.gov/", [ "https://statse.webtrendslive.com/", 0.7459022216136384, "https://studentloans.gov/", 16.780637223584677 ] ], [ "https://webmail.saclink.csus.edu/", [ "https://webmail.saclink.csus.edu/", 2.7631592939566265 ] ], [ "https://www.facebook.com/", [ "https://s-static.ak.fbcdn.net/", 0.6789587085845995 ] ], [ "https://www.google.com/", [ "https://apis.google.com/", 0.5777459552345022, "https://id.google.com/", 0.22527683136486287, "https://lh4.googleusercontent.com/", 0.6647603517591449, "https://plus.google.com/", 0.5913869083191893, "https://ssl.gstatic.com/", 1.859370972673858, "https://www.google.com/", 5.871500580798612 ] ], [ "https://www.meebo.com/", [ "https://connect.facebook.net/", 1.9116543432291524, "https://pixel.quantserve.com/", 1.9116543432291524, "https://s-ssl.meebocdn.net/", 21.438304818384392, "https://s-static.ak.facebook.com/", 2.556061585083492, "https://s4.meebocdn.net/", 6.578051611829543, "https://sb.scorecardresearch.com/", 2.367183600402047, "https://secure.quantserve.com/", 1.9116543432291524, "https://ssl.google-analytics.com/", 2.367183600402047, "https://www.facebook.com/", 2.1894160854077476, "https://www.meebo.com/", 4.75037934829439 ] ] ],
+      "startup_list": [ 1, "http://127.0.0.1:3437/", "http://code.google.com/", "http://ssl.gstatic.com/", "http://www.google-analytics.com/", "http://www.google.com/", "https://groups.google.com/", "https://ssl.google-analytics.com/", "https://ssl.gstatic.com/", "https://www.google-analytics.com/", "https://www.google.com/" ]
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "last_check": "12983686938750000",
+         "next_check": "12983704574267000"
+      },
+      "blacklistupdate": {
+         "lastpingday": "12983612466948375",
+         "version": "0.0.0.112"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "settings": {
+         "abciiempgohamehppammbkhkicmkgkob": {
+            "blacklist": true
+         },
+         "aebfkgcamgnimcbnbiopgdakknjgggnm": {
+            "blacklist": true
+         },
+         "aemcjbfajnnmhblifaejadoecfoaebld": {
+            "blacklist": true
+         },
+         "afenhmponmfmdmbmccbmglppcmjhmhmh": {
+            "blacklist": true
+         },
+         "aglmapjbjphdidmnileogpjkgpdoliep": {
+            "blacklist": true
+         },
+         "agmhonoepgcnakccfpidhjehlocaeaaj": {
+            "blacklist": true
+         },
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "active_permissions": {
+               "api": [ "appNotifications", "management", "webstorePrivate" ]
+            },
+            "app_launcher_ordinal": "n",
+            "page_ordinal": "n"
+         },
+         "ahjfgnikolodijnpakeknpilnemojlhc": {
+            "blacklist": true
+         },
+         "aifmjmboebdkdelpjenakhaodgneempp": {
+            "blacklist": true
+         },
+         "alcbnnpmipohgdllkkglhkbncijplago": {
+            "blacklist": true
+         },
+         "aldalonecchncedclgcndcndgilaclnk": {
+            "blacklist": true
+         },
+         "aljdncnajablgppdcfbehhmidlmbndda": {
+            "blacklist": true
+         },
+         "amfgdngndpfldigimkcindjalokfnmem": {
+            "blacklist": true
+         },
+         "apdmgffkfhjfeejmbjidennfjdkmmmbl": {
+            "blacklist": true
+         },
+         "aphncaagnlabkeipnbbicmcahnamibgb": {
+            "blacklist": true
+         },
+         "bjihddggcgnblgojnmhpnngonofbnkaj": {
+            "blacklist": true
+         },
+         "bkkchglolnigbfncnbnnbhhempjkdpkf": {
+            "blacklist": true
+         },
+         "bkplhcigeaiiliajeehehiikokgocbhb": {
+            "blacklist": true
+         },
+         "bndahdijlcnncjbpammoedeapmlobllc": {
+            "blacklist": true
+         },
+         "boaoagnmpennjoigkkmnjhecapibhfko": {
+            "blacklist": true
+         },
+         "boclfockfmgcppbajihcgajhpggaakgl": {
+            "blacklist": true
+         },
+         "bokkificjhapflinbdejegngffgkcgfe": {
+            "blacklist": true
+         },
+         "caphkimknlmnhpjoneddiaakmcaajagb": {
+            "blacklist": true
+         },
+         "cbbjhegipokkofhhicbckicchjpcpeni": {
+            "blacklist": true
+         },
+         "cekdjgnecpoooikhmceokdhojckkkhmh": {
+            "blacklist": true
+         },
+         "cfbdodejdeejbkffcmiaknpmojjeibpn": {
+            "blacklist": true
+         },
+         "cgnkbnaiipmfbakpmhllalggoepniemh": {
+            "blacklist": true
+         },
+         "cihlkpohodpdkdnfalhdkhhlhmhffmbe": {
+            "blacklist": true
+         },
+         "cjhklhdjonhcohlacgggcbklpnldleck": {
+            "blacklist": true
+         },
+         "clapnamcglekekmamicmbahkghdcjaeh": {
+            "blacklist": true
+         },
+         "cmjphjljejnfgdbkdgdlclaabimpknna": {
+            "blacklist": true
+         },
+         "coajchbkdbfhmhbgcjepiofllfjjcpfp": {
+            "blacklist": true
+         },
+         "dadcalgappognjbjpalfophhcfakoeac": {
+            "blacklist": true
+         },
+         "danapgfidmepmcfbjjacceiaiiioieio": {
+            "blacklist": true
+         },
+         "dbiblcmlcgdjjbdpbmbcpineegngkiip": {
+            "blacklist": true
+         },
+         "dbmdicehacbaohlockjgdglcobimmjkh": {
+            "blacklist": true
+         },
+         "dejippphmhbpgckbhdidnjmdcpfccbaj": {
+            "blacklist": true
+         },
+         "dgcfmgdfbfbgcpbendbhbkfjppboebed": {
+            "blacklist": true
+         },
+         "dgkemngdheppgohkjjelnkjmdeimmfml": {
+            "blacklist": true
+         },
+         "diinokaoicgobepmadnmedlhdfnpehcj": {
+            "blacklist": true
+         },
+         "dlobhinihbmedmheccecfnkcadpehmbf": {
+            "blacklist": true
+         },
+         "dmkdhgkknhnfpdjeicefnpmhcpbimden": {
+            "blacklist": true
+         },
+         "doneghboglgnflpdicnkaojmmljgejkj": {
+            "blacklist": true
+         },
+         "dpgenihgggagjjggfocjceeobjkadcbc": {
+            "blacklist": true
+         },
+         "dpmloehicimdjkibmobhmpgdndgbcced": {
+            "blacklist": true
+         },
+         "ebdcdchjcndpjhehacedepnggfdbfkpn": {
+            "blacklist": true
+         },
+         "edmnikahahfkfilbbjbdoiabnghbkmjc": {
+            "blacklist": true
+         },
+         "efhjelcghjkfigiagdfbfilndaffpmdj": {
+            "blacklist": true
+         },
+         "efnaljpgehfilpmkhobibbjceeeondmn": {
+            "blacklist": true
+         },
+         "egljdhfnbjahogjahnigfnbpidlmdagi": {
+            "blacklist": true
+         },
+         "ehgoiaffgjoinpkllmmnikghgpghnabc": {
+            "blacklist": true
+         },
+         "ehomcoocpagnlcakcbecdaknmacmedld": {
+            "blacklist": true
+         },
+         "eihjeehdobnpkonebmpanonopghepfle": {
+            "blacklist": true
+         },
+         "ejlekamipdcfcfpgfepjmklllbpeecaj": {
+            "blacklist": true
+         },
+         "eofejpelggimkodeojpeojnbijgiglgh": {
+            "blacklist": true
+         },
+         "fafoohpbicgbcejffcplajonhhooddle": {
+            "blacklist": true
+         },
+         "fbhiehmngojjcmljddjmgpmcockbccmo": {
+            "blacklist": true
+         },
+         "ffgfbfakpcnngelphjnppokmoicdollk": {
+            "blacklist": true
+         },
+         "fibgploapkhokkbncddlkcmbmiengcfp": {
+            "blacklist": true
+         },
+         "fjjeecfjmgfnleghoellhldedkaocjfc": {
+            "blacklist": true
+         },
+         "flmmgcfcpbfddenepkfmgfpbaceolcoe": {
+            "blacklist": true
+         },
+         "fmcccidacjgnfiafddkngmeolkoiihil": {
+            "blacklist": true
+         },
+         "fmonlemffgbabjifjfaoamdflijecdbk": {
+            "blacklist": true
+         },
+         "fnhcgnmfccojojojacgeiaaeacefdohb": {
+            "blacklist": true
+         },
+         "fnkaadkanmfgpfbmdcllhjdgmdbgljpi": {
+            "blacklist": true
+         },
+         "fnnmbghphdnmmjdapccfobgjemjadeli": {
+            "blacklist": true
+         },
+         "fpbippbofbmgmbojjmgfcifpmdaelcmd": {
+            "blacklist": true
+         },
+         "fpmajanjndhgpifbcbnklbiehgnpkgmf": {
+            "blacklist": true
+         },
+         "gbenikfjhilhpgagllmfgggdjaflbmbi": {
+            "blacklist": true
+         },
+         "geaciikggodcnpjfpnpcpjkcmamkfbfp": {
+            "active_permissions": {
+               "api": [ "management", "tabs" ],
+               "explicit_host": [ "http://*/*" ]
+            },
+            "events": [ "experimental.extension.onInstalled" ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "granted_permissions": {
+               "api": [ "management", "tabs" ],
+               "explicit_host": [ "http://*/*" ]
+            },
+            "install_time": "12983694816779625",
+            "location": 4,
+            "newAllowFileAccess": true,
+            "path": "E:\\src\\watchdog\\watchdog.chromeExtension",
+            "state": 1
+         },
+         "ghgphbmpcfgkfneodjpbdanmdoemklio": {
+            "blacklist": true
+         },
+         "ghmaokcegalalefnhlfcnjhnpdbanjkj": {
+            "blacklist": true
+         },
+         "gifglngcdbggmlgkcombebegdaoknkho": {
+            "blacklist": true
+         },
+         "gjkbghdignnlcknknflbigpammebiolo": {
+            "blacklist": true
+         },
+         "gkjeccpmibljcfpfapfljciimedljpnm": {
+            "blacklist": true
+         },
+         "gnapdhmknipknfmhhnhdmhakdfhgeing": {
+            "blacklist": true
+         },
+         "gncfgndgeoddelbfhlndhljnecoednaa": {
+            "blacklist": true
+         },
+         "gngmkbiihflpghldjnbpemaicedhdddk": {
+            "blacklist": true
+         },
+         "gobjcjhhebpjbmjdgmejhebbleadnceo": {
+            "blacklist": true
+         },
+         "hbaajkahagmlkdekmbdabikbopdgpaac": {
+            "blacklist": true
+         },
+         "hbmlheccjkodhfejcmblndjodllmnlnl": {
+            "blacklist": true
+         },
+         "hcapokajkngndbglnfglpfdpoeidmpha": {
+            "blacklist": true
+         },
+         "hcpndbchnlgojmnijaldkicigmihmdca": {
+            "blacklist": true
+         },
+         "hefmoncdemhjembgbnkgglhlookbipdc": {
+            "blacklist": true
+         },
+         "hgjgaeknhmidehalnmokomhpfhbfmpcm": {
+            "blacklist": true
+         },
+         "hhfffemhgkginfafaoapljdllodppana": {
+            "blacklist": true
+         },
+         "hhfiljkpjapjjphcocclhhaldpfkkjbi": {
+            "blacklist": true
+         },
+         "hhjmkijkgojfifipdgmiemghfikbohcm": {
+            "blacklist": true
+         },
+         "hhlgbfcfbkhlmajakkcjippgpcmejkko": {
+            "blacklist": true
+         },
+         "hkbgccpdcpbdckohbknjlamamelcnlki": {
+            "blacklist": true
+         },
+         "hncomkjbbkchfjelocejkbbflmjhlhfp": {
+            "blacklist": true
+         },
+         "hnipgljcblpgnnojcfldehpeknhakbgj": {
+            "blacklist": true
+         },
+         "hnkcpoijaeegompjgbjjhkdmljldaccg": {
+            "blacklist": true
+         },
+         "hnnebfeppcbhhbhiifeaajgcjnkljlld": {
+            "blacklist": true
+         },
+         "hpibmhghjndideebpackbdlpncgkcppp": {
+            "blacklist": true
+         },
+         "iablioliielnhdianpbiijaoncbmfend": {
+            "blacklist": true
+         },
+         "ifbkndkaolfbjjhnnhfmkbkoclpdkpli": {
+            "blacklist": true
+         },
+         "ifeijfpkjckedpclgncedmgdiaoeahmk": {
+            "blacklist": true
+         },
+         "ijecjbcgpblkacpijljpaienknanaloa": {
+            "blacklist": true
+         },
+         "ijenlpgidnapbndonoinbkhekgjonojg": {
+            "blacklist": true
+         },
+         "imfbomjbodpfgfhfahlgkkcllmhbelhk": {
+            "blacklist": true
+         },
+         "imkffpjpdngdkpgadcmnlkhhmhdocijn": {
+            "blacklist": true
+         },
+         "iobnpmeeecphddicmhhmdjbnlbdhjlne": {
+            "blacklist": true
+         },
+         "iomejadoamfilglofmeaffghddcgapmf": {
+            "blacklist": true
+         },
+         "jaejgaoiipdjjlbnapngknalafalbkej": {
+            "blacklist": true
+         },
+         "janhdpmhnighonkkbkdpnljcoenpfkbh": {
+            "blacklist": true
+         },
+         "jcmipejepoimfflnoapdmkdephgjinck": {
+            "blacklist": true
+         },
+         "jgdkappiifgomhgikcjbanhnmlekpeje": {
+            "blacklist": true
+         },
+         "jgmpapdckakiohhebmeoemejibommimi": {
+            "blacklist": true
+         },
+         "jhhabiomopkibeecgngiggmopkeofacl": {
+            "blacklist": true
+         },
+         "jindbcpkhnnnjgcjgmkjedbibibiojjf": {
+            "blacklist": true
+         },
+         "jjnkfllhcgkgnfbekpnmoikpfihpjfli": {
+            "blacklist": true
+         },
+         "jkihmglffmfjedfbpbpdbbimcodjbmdh": {
+            "blacklist": true
+         },
+         "jkmhalpofmlfeglboejbchpoijnkmcgh": {
+            "blacklist": true
+         },
+         "jmifipgdcllamghkhdplfjffkciekbgo": {
+            "blacklist": true
+         },
+         "jpeijjbllejgmokmahkeommcodahoobm": {
+            "blacklist": true
+         },
+         "jpgidahfcgiajlcbleeiaibpmmblcmnb": {
+            "blacklist": true
+         },
+         "jpkdlckejfjidmplieobnhijmoiecbhl": {
+            "blacklist": true
+         },
+         "kbipembkfhbdmkkkfbigmohilmknjnof": {
+            "blacklist": true
+         },
+         "kcanfkmhccbaheheaackijegkclkaeic": {
+            "blacklist": true
+         },
+         "kcfnnanmpghdnoompcfclakpacapnfbn": {
+            "blacklist": true
+         },
+         "kelcbonmemlciepjdmfcifnhloeammhj": {
+            "blacklist": true
+         },
+         "kgbkdabomfdpfoibliicpmibceaoohgh": {
+            "blacklist": true
+         },
+         "kinhljbhjmcmoddhdoodekeklmjapjff": {
+            "blacklist": true
+         },
+         "kkhomejdleoonmbdhcigkhkjcghngncf": {
+            "blacklist": true
+         },
+         "kleaapgdkahaekcocmkbgfainbhihccj": {
+            "blacklist": true
+         },
+         "kmlebjoghkhpapfhbdikannggmmffnco": {
+            "blacklist": true
+         },
+         "kolbbghckjilleabphhgeggcgpfidofi": {
+            "blacklist": true
+         },
+         "lbficnmfealeidppcbgdcbemgfjodbkg": {
+            "blacklist": true
+         },
+         "lceaiepehinnomgijphkmjccbigkljkj": {
+            "blacklist": true
+         },
+         "ldgfapfmnplpaohbbadnecegcpfkfall": {
+            "blacklist": true
+         },
+         "lgalokbapphhklmilicdefmgbjkcmldf": {
+            "blacklist": true
+         },
+         "likifpgnijjfbdegfepoalpamlgnfofi": {
+            "blacklist": true
+         },
+         "liomofjeffddiiccaolcnllbhnipbkhe": {
+            "blacklist": true
+         },
+         "ljcicfibknpmlcmcecddjlbgkejehhpa": {
+            "blacklist": true
+         },
+         "ljeihpebkahejeacdalhkhmckmggppif": {
+            "blacklist": true
+         },
+         "ljfcdkedjggbfbclmoiljkllbligpeem": {
+            "active_permissions": {
+               "api": [ "tabs" ],
+               "explicit_host": [ "http://*/*" ]
+            },
+            "events": [ "experimental.extension.onInstalled" ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "granted_permissions": {
+               "api": [ "tabs" ],
+               "explicit_host": [ "http://*/*" ]
+            },
+            "install_time": "12983694763761875",
+            "location": 4,
+            "newAllowFileAccess": true,
+            "path": "E:\\src\\watchdog\\player.chromeExtension",
+            "state": 1
+         },
+         "lkdimamelhbiijkiljlnedmhnnkkmlbl": {
+            "blacklist": true
+         },
+         "lljnngafekbnkpdfophmcdlbfebcbcld": {
+            "blacklist": true
+         },
+         "lnahlgmhpghkhmafjppdidhcoaomipfg": {
+            "blacklist": true
+         },
+         "lnbeebaenahmkbffnimghceldeeihfak": {
+            "blacklist": true
+         },
+         "lncjcfkpannmofmpgdfoonkniofdnaba": {
+            "blacklist": true
+         },
+         "lndempehphjoeimfchjflohpmhamiamf": {
+            "blacklist": true
+         },
+         "mamfageekafifnickhgkibkofcclfefe": {
+            "blacklist": true
+         },
+         "mbmdaiddhfoljplpdhohimgieioblfif": {
+            "blacklist": true
+         },
+         "mdiehnlecbjlppbpaaipmlnhhjgepfcg": {
+            "blacklist": true
+         },
+         "megkcfpbmemnpkgadkoompnoajcolpni": {
+            "blacklist": true
+         },
+         "mfffdpnblflpobcnekhekiahepofaane": {
+            "blacklist": true
+         },
+         "mfhfkclojmdocagbmecgcnlofppebebd": {
+            "blacklist": true
+         },
+         "mfncimdpmknolnnnccdmkpnpkaofonkc": {
+            "blacklist": true
+         },
+         "mgijmajocgfcbeboacabfgobmjgjcoja": {
+            "active_permissions": {
+               "api": [ "tabs" ],
+               "explicit_host": [ "https://clients5.google.com/*" ],
+               "scriptable_host": [ "\u003Call_urls\u003E" ]
+            },
+            "events": [ "experimental.extension.onInstalled" ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "tabs" ],
+               "explicit_host": [ "https://clients5.google.com/*" ],
+               "scriptable_host": [ "\u003Call_urls\u003E" ]
+            },
+            "install_time": "12983658872059375",
+            "location": 1,
+            "manifest": {
+               "background_page": "background.html",
+               "browser_action": {
+                  "default_icon": "static/icon19.png",
+                  "default_popup": "page_action.html",
+                  "default_title": "Google Dictionary"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "css": [ "content_css_min.css" ],
+                  "js": [ "content_js_min.js" ],
+                  "matches": [ "\u003Call_urls\u003E" ]
+               } ],
+               "description": "View definitions easily as you browse the web.",
+               "icons": {
+                  "128": "static/icon128.png",
+                  "16": "static/icon16.png",
+                  "32": "static/icon32.png",
+                  "48": "static/icon48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuLnDgxFluQcqbOGrRJ2N7gYRj2DlTTnXa02Ho6IZNKm+Qv8cePlrsn/06irXeEPyikjoo9vokhsv54vV4Wb73x0a5K7s9pY2tuXnBzvik4Jru4KZozebnJTyYDAcjiyPc/ATrzlfQxlZiXIHBVj5KITnaFlR2SuxYkRVebPjUfwIDAQAB",
+               "name": "Google Dictionary (by Google)",
+               "options_page": "options.html",
+               "permissions": [ "tabs", "https://clients5.google.com/*" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "3.0.12"
+            },
+            "path": "mgijmajocgfcbeboacabfgobmjgjcoja\\3.0.12_0",
+            "state": 0
+         },
+         "mjgobkikdipfikmaoakdcdbicpioljgg": {
+            "blacklist": true
+         },
+         "mjolnadmlahbpepjaemohnkhpjkbhmef": {
+            "blacklist": true
+         },
+         "mkobblpffgbncfhijabakfafmkjdmmnm": {
+            "blacklist": true
+         },
+         "mlmegahemifabfmdnndafagnncfbnahn": {
+            "blacklist": true
+         },
+         "mlmmbepkgelpbenpobinockmiehdahai": {
+            "blacklist": true
+         },
+         "mlnoedbhndgbjcbeadjfnmjloejlgojk": {
+            "blacklist": true
+         },
+         "mmjodihhmnpkldljaifiajmlnpflfhpm": {
+            "blacklist": true
+         },
+         "mnhcgaghminpdabllkbkecahjfkdiabk": {
+            "blacklist": true
+         },
+         "mnichagcickblneeijmfnmoiakigmmhf": {
+            "blacklist": true
+         },
+         "mogepbcllienegdibkfpmombhefhcoic": {
+            "blacklist": true
+         },
+         "mplhbhmkccidaokcelbcbcmhhedebcng": {
+            "blacklist": true
+         },
+         "nbieffehfdniifkgdckbndjhojohbfjj": {
+            "blacklist": true
+         },
+         "ndhkiimgbjnendpcfbiadlifmangejoa": {
+            "blacklist": true
+         },
+         "ndiogongcmocdgjciemhagfhpjamehpe": {
+            "blacklist": true
+         },
+         "negkalblfongjbphdcbbhddlickhlamd": {
+            "blacklist": true
+         },
+         "nepfiodmbijheamafkiglonfkjebdjmf": {
+            "blacklist": true
+         },
+         "nhboiakpmibkbkbeehchlfkggmhphpnk": {
+            "blacklist": true
+         },
+         "nibohffepnilngkecenfdgnokfhmnkod": {
+            "blacklist": true
+         },
+         "nidmbljkkcbdfklgdkklgjgmhejmbojn": {
+            "blacklist": true
+         },
+         "nidodbfomffkfabciljelkbdiabkeehe": {
+            "blacklist": true
+         },
+         "nihhbeikpchdddoillfdcdinnnnllmna": {
+            "blacklist": true
+         },
+         "nlgapikcofpablcmfgaoodlhiejiehhh": {
+            "blacklist": true
+         },
+         "nmphbnbmgfccfhcmibikmhcgajjpelpf": {
+            "blacklist": true
+         },
+         "nnioepmjbjjlflmdgjanlcmbjahljeeo": {
+            "blacklist": true
+         },
+         "nochkknnbahbhmmknnmdhagelcnfagom": {
+            "blacklist": true
+         },
+         "noefghcilkpcabnhhilojimkkjplhcnd": {
+            "blacklist": true
+         },
+         "npadaghbcdejfngcjpbnoikajdnongca": {
+            "blacklist": true
+         },
+         "npolaghondefgiomhkbiiompikfjneep": {
+            "blacklist": true
+         },
+         "oakhllhnbcpgagdafgbninlpjdemdmjk": {
+            "blacklist": true
+         },
+         "oanjogmonneelfpnfmdlalfddkeckdej": {
+            "blacklist": true
+         },
+         "ocnlnkjmfnolmbclblfhfhcakldceiec": {
+            "blacklist": true
+         },
+         "odnamglmogfldajnhkfodmloofeokcmm": {
+            "blacklist": true
+         },
+         "ogjbodghhojomghbdfnlkppdagkfjede": {
+            "blacklist": true
+         },
+         "oidjdpbndkjhmhmgdoggibcjnippkcgo": {
+            "blacklist": true
+         },
+         "omceiakkomngangmllpgbjcoeloglald": {
+            "blacklist": true
+         },
+         "onpnpccdagncipgnoofbhchlbajcjnkd": {
+            "blacklist": true
+         },
+         "ookcgejbfhcmcanfkfmmmpahflnlajbl": {
+            "blacklist": true
+         },
+         "opnnngnphijodjhemhdafpnnpdjggofe": {
+            "blacklist": true
+         },
+         "pbekednmpdekknlffkiopooofokfmkla": {
+            "blacklist": true
+         },
+         "pbglijbamgmlcpnnpbfjkbdeheejjloj": {
+            "blacklist": true
+         },
+         "pfcelnbmkeoaeicedjomcjkcammlkdbk": {
+            "blacklist": true
+         },
+         "pfoiaildicnbcjojocjlpcibenphhbln": {
+            "blacklist": true
+         },
+         "pfonklmafadkmcedjlodommcoipgbcde": {
+            "blacklist": true
+         },
+         "pgldfhecfiofkhnbgcncepnkjkeoahlk": {
+            "blacklist": true
+         },
+         "phkpgooenaonkpnabopdbjjfmphclela": {
+            "blacklist": true
+         },
+         "pjdhkkcnlbfebiokpeghfffajaabahfo": {
+            "blacklist": true
+         },
+         "pkbbbncikcipejaiiiioboongndhmjgl": {
+            "blacklist": true
+         },
+         "pkbkkendemaimikinaefldfljliecapm": {
+            "blacklist": true
+         },
+         "plfijddblbcdcnammpdmfccchkbdekmm": {
+            "blacklist": true
+         },
+         "pnaiiipilbpcceggeanphcpkkihnojan": {
+            "blacklist": true
+         },
+         "pnnbdjcjeiobikdfikegpclkcimgafpp": {
+            "blacklist": true
+         },
+         "pnpfkfanlgljpkpilhgiimfadggfmhcd": {
+            "blacklist": true
+         },
+         "pnpgiaejfbdapllkchhgchjpdbcpiooa": {
+            "blacklist": true
+         },
+         "ppmfajacidhcjbddpgmcmigffpppcadd": {
+            "blacklist": true
+         }
+      },
+      "toolbar": [ "geaciikggodcnpjfpnpcpjkcmamkfbfp", "ljfcdkedjggbfbclmoiljkllbligpeem" ],
+      "toolbarsize": -1,
+      "ui": {
+         "developer_mode": true
+      }
+   },
+   "net": {
+      "http_server_properties": {
+         "4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 17
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "accounts.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 21
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "accounts.youtube.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "ad.doubleclick.net:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            } ],
+            "supports_spdy": true
+         },
+         "ajax.googleapis.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 23
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "api.twitter.com:443": {
+            "supports_spdy": true
+         },
+         "apis.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "chatenabled.mail.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 10
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "checkout.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 58
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "chrome.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 69
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "clients1.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "clients2.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "clients5.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 1
+            } ],
+            "supports_spdy": true
+         },
+         "code.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "encrypted-tbn1.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "fls.doubleclick.net:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "fonts.googleapis.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "gg.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "gmail.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 10
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "googleads.g.doubleclick.net:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "groups.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 19
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "id.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "kibbles.googlecode.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "lh3.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "lh4.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 45
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "lh5.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 3
+            }, {
+               "id": 6,
+               "value": 4
+            } ],
+            "supports_spdy": true
+         },
+         "mail-attachment.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "mail.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 10
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "maps-api-ssl.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "maps.gstatic.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 50
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "plus.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 30
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "plusone.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 50
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "ssl.google-analytics.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 15
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "ssl.gstatic.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 28
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "static.doubleclick.net:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            } ],
+            "supports_spdy": true
+         },
+         "themes.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 35
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www-gm-opensocial.googleusercontent.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 36
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.google-analytics.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.google.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 10
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.googleadservices.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         },
+         "www.gstatic.com:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            }, {
+               "id": 5,
+               "value": 32
+            }, {
+               "id": 6,
+               "value": 0
+            } ],
+            "supports_spdy": true
+         }
+      }
+   },
+   "ntp": {
+      "app_page_names": [ "Apps" ],
+      "promo_build": 4,
+      "promo_closed": false,
+      "promo_end": 1338965940.0,
+      "promo_feature_mask": 0,
+      "promo_group": 85,
+      "promo_group_max": 99,
+      "promo_group_timeslice": 0,
+      "promo_is_logged_in_to_plus": false,
+      "promo_line": "We\u2019ve remodeled! \u003Ca href=\"https://support.google.com/chromeos/?p=ntp19\"\u003ELearn more about the latest features\u003C/a\u003E on your Chromebook.",
+      "promo_platform": 8,
+      "promo_resource_cache_update": "1339096748.683125",
+      "promo_start": 1338321600.0,
+      "promo_views": 0,
+      "promo_views_max": 20
+   },
+   "pinned_tabs": [ {
+      "url": "chrome://chrome/extensions/"
+   } ],
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true,
+      "last_internal_directory": "E:\\Documents and Settings\\Administrator\\Desktop\\unitclient-2.4-win32\\GoogleChromePortable\\App\\Chrome-bin\\19.0.1084.52",
+      "plugins_list": [ {
+         "enabled": true,
+         "name": "Remoting Viewer",
+         "path": "internal-remoting-viewer",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Remoting Viewer"
+      }, {
+         "enabled": true,
+         "name": "Native Client",
+         "path": "E:\\Documents and Settings\\Administrator\\Desktop\\unitclient-2.4-win32\\GoogleChromePortable\\App\\Chrome-bin\\19.0.1084.52\\ppGoogleNaClPluginChrome.dll",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Native Client"
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer",
+         "path": "E:\\Documents and Settings\\Administrator\\Desktop\\unitclient-2.4-win32\\GoogleChromePortable\\App\\Chrome-bin\\19.0.1084.52\\pdf.dll",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer"
+      }, {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "E:\\Documents and Settings\\Administrator\\Desktop\\unitclient-2.4-win32\\GoogleChromePortable\\App\\Chrome-bin\\19.0.1084.52\\gcswf32.dll",
+         "version": "11,2,202,235"
+      }, {
+         "enabled": true,
+         "name": "Flash"
+      }, {
+         "enabled": true,
+         "name": "Google Update",
+         "path": "E:\\Documents and Settings\\Administrator\\Local Settings\\Application Data\\Google\\Update\\1.3.21.111\\npGoogleUpdate3.dll",
+         "version": "1.3.21.111"
+      }, {
+         "enabled": true,
+         "name": "Google Update"
+      }, {
+         "enabled": true,
+         "name": "Shockwave for Director",
+         "path": "E:\\WINDOWS\\system32\\Adobe\\Director\\np32dsw.dll",
+         "version": "11.6.1r629"
+      }, {
+         "enabled": true,
+         "name": "Shockwave"
+      }, {
+         "enabled": true,
+         "name": "Windows Presentation Foundation",
+         "path": "e:\\WINDOWS\\Microsoft.NET\\Framework\\v3.5\\Windows Presentation Foundation\\NPWPF.dll",
+         "version": "3.5.30729.1 built by: SP"
+      }, {
+         "enabled": true,
+         "name": "Windows Presentation Foundation"
+      } ]
+   },
+   "profile": {
+      "avatar_index": 0,
+      "content_settings": {
+         "pref_version": 1
+      },
+      "created_by_version": "19.0.1084.52",
+      "exited_cleanly": true,
+      "name": "First user"
+   },
+   "session": {
+      "restore_on_startup": 1,
+      "restore_on_startup_migrated": true
+   }
+}
