@@ -56,7 +56,7 @@
    },
    "shutdown": {
       "num_processes": 3,
-      "num_processes_slow": 2,
+      "num_processes_slow": 1,
       "type": 1
    },
    "task_manager": {
@@ -74,21 +74,21 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1339096424",
-      "launch_count": "10"
+      "launch_count": "11"
    },
    "user_experience_metrics": {
-      "session_id": 9,
+      "session_id": 10,
       "stability": {
          "breakpad_registration_fail": 0,
          "breakpad_registration_ok": 0,
          "crash_count": 0,
-         "debugger_not_present": 10,
+         "debugger_not_present": 11,
          "debugger_present": 0,
          "exited_cleanly": true,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1339233626",
-         "launch_count": 10,
-         "launch_time_sec": "1339233590",
+         "last_timestamp_sec": "1339235717",
+         "launch_count": 11,
+         "launch_time_sec": "1339234195",
          "page_load_count": 0,
          "renderer_crash_count": 0,
          "renderer_hang_count": 0,

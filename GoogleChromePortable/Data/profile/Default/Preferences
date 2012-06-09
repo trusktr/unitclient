@@ -27,7 +27,7 @@
       "window_placement": {
          "bottom": 770,
          "left": 173,
-         "maximized": true,
+         "maximized": false,
          "right": 1223,
          "top": 109,
          "work_area_bottom": 964,
@@ -37,11 +37,11 @@
       },
       "window_placement_DevToolsApp": {
          "always_on_top": false,
-         "bottom": 868,
-         "left": 34,
+         "bottom": 904,
+         "left": 398,
          "maximized": false,
-         "right": 849,
-         "top": 228,
+         "right": 1213,
+         "top": 264,
          "work_area_bottom": 964,
          "work_area_left": 0,
          "work_area_right": 1280,
@@ -79,7 +79,7 @@
    "extensions": {
       "autoupdate": {
          "last_check": "12983704255069000",
-         "next_check": "12983721953851500"
+         "next_check": "12983722566794125"
       },
       "blacklistupdate": {
          "lastpingday": "12983698849372000",
