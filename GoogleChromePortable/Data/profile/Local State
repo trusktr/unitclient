@@ -1,5 +1,6 @@
 {
    "browser": {
+      "enabled_labs_experiments": [ "webui-task-manager" ],
       "hung_plugin_detect_freq": 2000,
       "last_known_google_url": "http://www.google.com/",
       "last_prompted_google_url": "http://www.google.com/",
@@ -55,18 +56,18 @@
       "wrapped_key": "AKEgNitZf2EaU9lmNq-7dKbEf5ckKlNzkkcUpqBYqqTM0jKA444myQFa-i_MZZk-JsFR2TDgmS3r8XkvpSxUQpBs9ww_epJ_Xw=="
    },
    "shutdown": {
-      "num_processes": 3,
-      "num_processes_slow": 1,
+      "num_processes": 2,
+      "num_processes_slow": 2,
       "type": 1
    },
    "task_manager": {
       "window_placement": {
-         "bottom": 631,
-         "left": 405,
+         "bottom": 765,
+         "left": 369,
          "maximized": false,
-         "right": 875,
-         "top": 333,
-         "work_area_bottom": 964,
+         "right": 1019,
+         "top": 257,
+         "work_area_bottom": 1024,
          "work_area_left": 0,
          "work_area_right": 1280,
          "work_area_top": 0
@@ -74,22 +75,27 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1339096424",
-      "launch_count": "11"
+      "launch_count": "89",
+      "page_load_count": "15"
    },
    "user_experience_metrics": {
-      "session_id": 10,
+      "client_id": "39E1FD58-7F34-4C46-BB55-939698CD9820",
+      "client_id_timestamp": "1339284338",
+      "reporting_enabled": false,
+      "session_id": 88,
       "stability": {
          "breakpad_registration_fail": 0,
          "breakpad_registration_ok": 0,
-         "crash_count": 0,
-         "debugger_not_present": 11,
+         "crash_count": 1,
+         "debugger_not_present": 89,
          "debugger_present": 0,
          "exited_cleanly": true,
+         "extension_renderer_crash_count": 1,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1339235717",
-         "launch_count": 11,
-         "launch_time_sec": "1339234195",
-         "page_load_count": 0,
+         "last_timestamp_sec": "1339503843",
+         "launch_count": 89,
+         "launch_time_sec": "1339503725",
+         "page_load_count": 15,
          "renderer_crash_count": 0,
          "renderer_hang_count": 0,
          "session_end_completed": true,
